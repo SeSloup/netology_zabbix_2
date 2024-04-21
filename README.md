@@ -39,7 +39,7 @@
 
 `Одинаковые запросы недопустимы, поэтому придется делать запрос к cpu не встроенным запросом, а самописным`
 
-![ошибка добавления шаблона Linux by Zabbix Agent]((https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_02(0).png))`
+![`ошибка добавления шаблона Linux by Zabbix Agent`](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_02(0).png)
 
 
 ---
@@ -48,7 +48,7 @@
 
 1 ![1](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_03.png)
 2 ![2](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_03(01).png)
-3 [Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_04.png)
+3 ![Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_04.png)
 
 `example`
 1 ![ex1](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_05.png)
