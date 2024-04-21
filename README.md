@@ -50,7 +50,7 @@
 2 ![2](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_03(01).png)
 3 ![Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_04.png)
 
-`example`
+`example`  
 1 ![ex1](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_05.png)
 2 ![ex2](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_06.png)
 3 ![ex3](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_07.png)
