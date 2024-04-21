@@ -26,7 +26,7 @@
 
 ### Задание 1
 
-`Прошу в данном решении считать название «Задание 1» эквивалентом «My_netology_template» и наоборот`
+`Прошу в данном решении считать название «Задание 1» эквивалентом «My_netology_template» и наоборот`  
 В шаблоне использовались UserParameters из [my_zabbix_item.py](https://github.com/SeSloup/netology_zabbix_2/blob/master/my_zabbix_item.py)
 
 1. ![`скриншот страницы шаблона`](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_01.png)
