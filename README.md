@@ -30,7 +30,7 @@
 В шаблоне использовались UserParameters из [my_zabbix_item.py](https://github.com/SeSloup/netology_zabbix_2/blob/master/my_zabbix_item.py)
 
 1. ![`скриншот страницы шаблона`](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_01.png)
-2. ![`скриншот страницы items шаблона`]((https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_02.png)
+2. ![`скриншот страницы items шаблона`](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_02.png)
 
 
 ---
@@ -46,15 +46,15 @@
 
 ### Задание 3
 
-1[1](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_03.png)
-1[2](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_03(01).png)
-1[Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_04.png)
+1 ![1](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_03.png)
+2 ![2](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_03(01).png)
+3 [Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_04.png)
 
 `example`
-1[Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_05.png)
-1[Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_06.png)
-1[Latest_data](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_07.png)
+1 ![ex1](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_05.png)
+2 ![ex2](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_06.png)
+3 ![ex3](https://github.com/SeSloup/netology_zabbix_2/blob/master/screens/zabbix_07.png)
 
 -----
 
-Спасибо за проверку!
+Спасибо за проверку! 🍊🥝
